@@ -49,4 +49,4 @@ def main(pdf_path):
     print(f'Text extracted and saved to {os.path.join(output_folder, pdf_path.replace(".pdf", ""))}')
 
 if __name__ == "__main__":
-    main('C:/Users/uribrown/OneDrive - Microsoft/ATS/cloud cost report - anodot.pdf')
+    main('C:/Users/uribrown/OneDrive - Microsoft/ATS/Total Economic Impact of SQL.pdf')
